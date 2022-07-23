@@ -1,1 +1,6 @@
 openpyxl==3.0.10
+Flask==2.0.2
+gunicorn==20.1.0
+pymongo==4.1.1
+Flask-Cors==3.0.10
+python-dotenv==0.20.0
